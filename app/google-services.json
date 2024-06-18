@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153898520760",
+    "project_id": "chatactivity-ccafd",
+    "storage_bucket": "chatactivity-ccafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153898520760:android:26cd0007fc08589e78244d",
+        "android_client_info": {
+          "package_name": "com.example.chatactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81irCy5fTYyM2kr2wOk5Z0UdXtUtJKqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
