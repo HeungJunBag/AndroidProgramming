@@ -1072,6 +1072,10 @@ ___
 ###### 채팅화면
 ![스크린샷 2024-06-19 183227](https://github.com/HeungJunBag/AndroidProgramming/assets/169026858/2e955fca-c1ad-4fff-a2fe-09c9d4e602c1)
 
+___
+### 프로젝트 발표 영상 링크
+https://youtu.be/uPcKGPVE-pg?si=aAjCzMs4mOPapjIq
+
 
 ###### 데이터베이스
 ![스크린샷 2024-06-19 183402](https://github.com/HeungJunBag/AndroidProgramming/assets/169026858/a99eebcd-0470-4bde-92c4-5191bd615fb2)
